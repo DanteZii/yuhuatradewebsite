@@ -2,7 +2,7 @@
 home: true
 heroImage: /heroyuhua5.svg
 actionText: Product→
-actionLink: /recommend/
+actionLink: /Recommend/
 footer: 烟台裕华工贸有限公司 | 鲁ICP备17041017号
 pageClass: custom-page-class
 ---
