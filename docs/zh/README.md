@@ -16,7 +16,8 @@ pageClass: custom-page-class
   <div class="feature">
   <img src="/icons/earth.svg"/>
     <h2>货源直供</h2>
-    <p>自有野生地中海蓝鳍金枪鱼加工厂及超低温冰库</p>
+    <p>所有进口货品均为一手直采原产地，保证产品的真与鲜
+</p>
   </div>
   <div class="feature">
   <img src="/icons/safety certificate.svg"/>
