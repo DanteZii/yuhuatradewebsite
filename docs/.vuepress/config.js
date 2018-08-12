@@ -55,6 +55,15 @@ module.exports = {
                         '/VegetableProcessing/2Fungus',
                         '/VegetableProcessing/3Fruit'
                     ]
+                },
+                {
+                    title: '24HoursAirCargo',
+                    collapsable: false,
+                    children: [
+                        '/24HoursAirCargo/Farming',
+                        '/24HoursAirCargo/Wild',
+                        '/24HoursAirCargo/Season'
+                    ]
                 }
             ],
             // sidebar: {
@@ -148,16 +157,3 @@ module.exports = {
 
 
 
-function genSidebarConfig(title) {
-    return [
-        {
-            title,
-            collapsable: false,
-            children: [
-                '',
-                'fish',
-                'greens'
-            ]
-        }
-    ]
-}
