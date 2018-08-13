@@ -1,14 +1,8 @@
 module.exports = {
-    head: [
-        ['link', { rel: 'icon', href: '/hero' }]
-    ],
-    serviceWorker: true,
-    activeHeaderLinks: true,
+    dest: 'Yuhuatrade',
     locales: {
-        // 键名是该语言所属的子路径
-        // 作为特例，默认语言可以使用 '/' 作为其路径。
         '/': {
-            lang: 'en-US', // 将会被设置为 <html> 的 lang 属性
+            lang: 'en-US', 
             title: 'YuhuaTrade',
             description: 'We are an industry-leading, online and offline processing and trading company that integrates global sourcing, processing (OEM) and sales.'
         },
@@ -18,6 +12,19 @@ module.exports = {
             description: '我们是一家集全球采购、加工（可OEM）及销售于一体的线上及线下加工与贸易公司'
         }
     },
+    head: [
+        ['link', { rel: 'icon', href: '/yuhuatrade-icon-title.png' }],
+        ['link', { rel: 'manifest', href: '/manifest.json' }],
+        ['meta', { name: 'theme-color', content: '#276BAD' }],
+        ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+        ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+        ['link', { rel: 'apple-touch-icon', href: `/icons/yuhua-icon-152*152.png` }],
+        ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#276BAD' }],
+        ['meta', { name: 'msapplication-TileImage', content: '/icons/yuhua-icon-144*144.png' }],
+        ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+    ],
+    serviceWorker: true,
+    activeHeaderLinks: true,
     themeConfig: {
         sidebar: [
             {
