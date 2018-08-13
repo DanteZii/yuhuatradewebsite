@@ -15,15 +15,15 @@ pageClass: custom-page-class
 
 
 ## 1.Pacific Mackerel <Badge text="Hot" type="error"/>
-- **主要采购国家**：`韩国、日本` </p>
-- **规格**：`200-400` `300-500` `400-600` `700+`</p>
-- **包装**： `10公斤` `15公斤`</p>
+- 主要采购国家：`韩国 | 日本` </p>
+- 规格：`200-400` `300-500` `400-600` `700+`</p>
+- 包装： `10公斤` `15公斤`</p>
 <div class="imgb" >
     <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-1.%E9%B2%90%E9%B2%85%E9%B1%BC--Pacific-Mackerel.jpg">
 </div>
 
 ## 2.Spanish Mackerel <Badge text="Hot" type="error"/>
-- 主要采购国家： `韩国、日本`</p>
+- 主要采购国家： `韩国 | 日本`</p>
 - 规格：`200-400` `300-400` `500-750`</p>
 - 包装：`10公斤` `15公斤`<p>
 <div class="imgb" >
@@ -33,7 +33,7 @@ pageClass: custom-page-class
 
 
 ## 3.Plaice <Badge text="Hot" type="error"/>
-- 主要采购国家：</strong>`日本、韩国、台湾`</p>
+- 主要采购国家：</strong>`日本 | 韩国 | 台湾`</p>
 - 规格：`100-200` `200-300` `300-500`</p>
 - 包装：`10公斤` `15公斤`</p>
 <div class="imgb" >
@@ -50,7 +50,7 @@ pageClass: custom-page-class
 </div>
 
 ## 5.Ribbonfish
-- 主要采购国家：`韩国、日本、南美洲、巴西、巴基斯坦、非洲、中东`</p>
+- 主要采购国家：`韩国 | 日本 | 南美洲| 巴西 | 巴基斯坦 | 非洲 | 中东`</p>
 - 规格：`100-200` `200-300` `700-1000`</p>
 - 包装：`10公斤` `15公斤`</p>
 <div class="imgb" >
@@ -60,7 +60,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 
 ## 6.Scad
-- 主要采购国家：`日本、韩国`</p>
+- 主要采购国家：`日本 | 韩国`</p>
 - 规格：`100-200`</p>
 - 包装：`10公斤`</p>
 <div class="imgb" >
@@ -74,7 +74,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 ## 8.Saury
-- 主要采购国家：`日本、韩国、台湾`
+- 主要采购国家：`日本 | 韩国 | 台湾`</p>
 - 规格：`1号:130-150g` `2号:110-130g`
 `3号:90-110g` `4号:90g`</p>
 - 包装：`10公斤` `15公斤`</p>
@@ -88,7 +88,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 ## 10.Rubio
-- 主要采购国家：`乌拉圭`
+- 主要采购国家：`乌拉圭`</p>
 - 规格：`M,L`</p>
 - 包装：`10公斤/箱` `15公斤/箱`</p>
 <div class="imgb" >
@@ -96,7 +96,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 ### 11.Ray
-- 主要采购国家：`韩国、日本、东南亚、非洲`
+- 主要采购国家：`韩国 | 日本 | 东南亚 | 非洲`</p>
 - 规格：`200-300`</p>
 - 包装：`10公斤`</p>
 <div class="imgb" >
@@ -104,7 +104,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 ## 12.Herrying
-- 主要采购国家：`韩国、俄罗斯`
+- 主要采购国家：`韩国 | 俄罗斯`</P>
 - 规格：`100-200` `200-300`</p>
 - 包装：`10公斤`</p>
 <div class="imgb" >
@@ -112,7 +112,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 ## 13.Capelin
-- 主要采购国家：`加拿大、冰岛、挪威`
+- 主要采购国家：`加拿大 | 冰岛 | 挪威`</p>
 - 规格：`4l` `5l` `6l`</p>
 - 包装：`10公斤`</p>
 <div class="imgb" >
