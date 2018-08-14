@@ -4,10 +4,9 @@ pageClass: custom-page-class
 ---
 # Other
 
-## 1. Bluefin tuna    
-自主加工场 -60度超低温冷库 匠心精神 品质卓越.
+## 1. Frozen Bluefin Tuna-蓝鳍金枪鱼 
 - 主要采购国家：`地中海` </p>
-- 规格：`40+` `50+` `60+` `70+` `60～80Kg/条`</p>
+- 规格：`40kg+` `50kg+` `60kg+` `70kg+` </p>
 - 包装： `真空包装根据客户需求` `真空包装可DIY`</p>
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-0.%E8%97%8D%E9%B0%AD%E9%87%91%E6%9E%AA%E9%B1%BC-Bluefin-tuna.jpg">
