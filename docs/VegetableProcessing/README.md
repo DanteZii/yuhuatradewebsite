@@ -6,8 +6,7 @@ pageClass: custom-page-class
 
 
 ### 1.地瓜丁
-<p><strong>主要采购国家：</strong>进口种子指定品种</p>
-- 可指定品种
+- 可指定品种 
 - 规格：`500g/包` </p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-1.%E5%9C%B0%E7%93%9C%E4%B8%81--Sweet%20potato%20cubes.jpg">
@@ -21,6 +20,7 @@ pageClass: custom-page-class
 </div>
 
 ### 3.冷冻洋葱丁
+- 可指定品种
 - 规格：`500g/包` </p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-3.%E5%86%B7%E5%86%BB%E6%B4%8B%E8%91%B1%E4%B8%81--Frozen%20onion%20cubes.jpg">

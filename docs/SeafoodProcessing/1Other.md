@@ -37,8 +37,8 @@ pageClass: custom-page-class
 
 
 ## 4. Sweet shrimp sashimi 
-- 规格：`30尾`</p>
-- 包装： `30片/盘` `100克/盘` `40盘/箱` `4公斤/箱`</p>
+- 规格：`30尾` `30片/盘` `100克/盘` </p>
+- 包装：`40盘/箱` `4公斤/箱`</p>
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/R-6.%E5%8C%97%E6%9E%81%E7%94%9C%E8%99%BE%E5%88%BA%E8%BA%AB--Sweet%20shrimp%20sashimi.jpg">
 </div>

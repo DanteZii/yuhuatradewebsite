@@ -17,13 +17,13 @@ pageClass: custom-page-class
 ## 1.Pacific Mackerel <Badge text="Hot" type="error"/>
 - 主要采购国家：`韩国 | 日本` </p>
 - 规格：`200-400` `300-500` `400-600` `700+`</p>
-- 包装： `10公斤` `15公斤`</p>
+- 包装：`10公斤` `15公斤`</p>
 <div class="imgb" >
     <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-1.%E9%B2%90%E9%B2%85%E9%B1%BC--Pacific-Mackerel.jpg">
 </div>
 
 ## 2.Spanish Mackerel <Badge text="Hot" type="error"/>
-- 主要采购国家： `韩国 | 日本`</p>
+- 主要采购国家：`韩国 | 日本`</p>
 - 规格：`200-400` `300-400` `500-750`</p>
 - 包装：`10公斤` `15公斤`<p>
 <div class="imgb" >
@@ -33,7 +33,7 @@ pageClass: custom-page-class
 
 
 ## 3.Plaice <Badge text="Hot" type="error"/>
-- 主要采购国家：</strong>`日本 | 韩国 | 台湾`</p>
+- 主要采购国家：`日本 | 韩国 | 台湾`</p>
 - 规格：`100-200` `200-300` `300-500`</p>
 - 包装：`10公斤` `15公斤`</p>
 <div class="imgb" >

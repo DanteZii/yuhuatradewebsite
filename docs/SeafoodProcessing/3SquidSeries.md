@@ -36,6 +36,7 @@ pageClass: custom-page-class
 
 ## 6.唐扬鱿鱼足--Tang Yang squid feet
 - 规格：`1kg/袋` </p>
+- 包装：`6袋/箱` </p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-S-6.%E5%94%90%E6%89%AC%E9%B1%BF%E9%B1%BC%E8%B6%B3--Tang%20Yang%20squid%20feet.jpg">
 </div>
