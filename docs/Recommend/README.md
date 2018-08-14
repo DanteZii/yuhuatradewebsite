@@ -19,7 +19,9 @@ pageClass: custom-page-class
 </div>
 
 ## 2. Yellow tail 
-- 规格：`5～8` `7～9`</p>
+- 产地：`日本` `韩国` </p>
+- 规格：`300-500` `1-2kg` `5-6kg` `6-9kg`</p>
+- 包装：`不定重` `2-3条/箱`</p>
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-4.%E9%BB%84%E9%B0%A4%E9%B1%BC--Yellowtail.jpg">
 </div>
