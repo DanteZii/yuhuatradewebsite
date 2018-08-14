@@ -19,7 +19,7 @@ pageClass: custom-page-class
 </div>
 
 ## 2. Yellow tail 
-- 产地：`日本` `韩国` </p>
+- 产地：`日本 | 韩国` </p>
 - 规格：`300-500` `1-2kg` `5-6kg` `6-9kg`</p>
 - 包装：`不定重` `2-3条/箱`</p>
 <div class="imgb">
