@@ -7,7 +7,7 @@ pageClass: custom-page-class
 
 ## 1.烟熏三文鱼片--SmokedSalmonFillet
 - 规格：`1000~2000` </p>
-- 包装：`` </p>
+- 包装：`1kg/袋``OEM加工定制`</P>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-Su-3.%E7%83%9F%E7%86%8F%E4%B8%89%E6%96%87%E9%B1%BC%E9%B1%BC%E7%89%87--Smoked%20salmon%20fillet.jpg">
 </div>
