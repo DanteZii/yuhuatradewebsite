@@ -40,11 +40,10 @@ module.exports = {
                     title: 'AquaticProcessingSeries',
                     collapsable: false,
                     children: [
-                        '/SeafoodProcessing/',
-                        '/SeafoodProcessing/2TempuraShrimp',
-                        '/SeafoodProcessing/3CodFilletSeries',
-                        '/SeafoodProcessing/4SquidSeries',
-                        '/SeafoodProcessing/5SushiSeries'
+                        '/SeafoodProcessing/1Other',
+                        '/SeafoodProcessing/2CodFilletSeries',
+                        '/SeafoodProcessing/3SquidSeries',
+                        '/SeafoodProcessing/4SushiSeries'
                     ]
                 },
                 {

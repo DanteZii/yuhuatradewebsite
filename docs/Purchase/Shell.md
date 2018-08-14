@@ -6,11 +6,17 @@ pageClass: custom-page-class
 # Shell
 
 ## 1. 半壳牡蛎--Half shell oyster
+- 主要采购国家：``</p>
+- 规格：`8～10cm`</p>
+- 包装：`120个/箱`</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-1.%E5%8D%8A%E5%A3%B3%E7%89%A1%E8%9B%8E--Half%20shell%20oyster.jpg">
 </div>
 
 ## 2. 单冻牡蛎肉--IQF oyster meat
+- 主要采购国家：`日本` `韩国`</p>
+- 规格：`M`</p>
+- 包装：`20公斤`</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-2.%E5%8D%95%E5%86%BB%E7%89%A1%E8%9B%8E%E8%82%89--IQF%20oyster%20meat.jpg">
 </div>
@@ -38,6 +44,9 @@ pageClass: custom-page-class
 </div>
 
 ## 6. 小章鱼
+- 主要采购国家：``</p>
+- 规格：``</p>
+- 包装：``</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-6.%E5%B0%8F%E7%AB%A0%E9%B1%BC--Baby%20octopus.jpg">
 </div>

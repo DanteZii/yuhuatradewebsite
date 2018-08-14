@@ -67,8 +67,10 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-6.%E7%AB%B9%E8%8D%9A%E9%B1%BC--Scad.jpg">
 </div>
 
-## 7.Mullet
-
+## 7.Frozen mullet W/R
+- 主要采购国家：`中国丹东珲春` </p>
+- 规格：`700～1600g`</p>
+- 包装： `15kg/箱` </p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-7.%E9%B2%BB%E9%B1%BC--Mullet.jpg">
 </div>
@@ -83,6 +85,9 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 ## 9.Sardine
+- 主要采购国家：`` </p>
+- 规格：`30～50g` `50～80`</p>
+- 包装：裸妆 `15kg/盘`</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-9.%E6%B2%99%E4%B8%81%E9%B1%BC--Sardine.jpg">
 </div>
@@ -120,11 +125,17 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 ## 14.Sea bream
+- 主要采购国家：`日本`</p>
+- 规格：`50～800g`</p>
+- 包装：`15公斤/箱`</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-14.%E5%8A%A0%E5%90%89%E9%B1%BC--Sea%20bream.jpg">
 </div>
 
 ## 15.Sand Launce
+- 主要采购国家：``</p>
+- 规格：``</p>
+- 包装：``</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-15.%E7%8E%89%E7%AD%8B%E9%B1%BC--Sand%20Launce.jpg">
 </div>
