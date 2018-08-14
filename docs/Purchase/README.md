@@ -87,7 +87,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 ## 9.Frozen Japanese Pilchard-七星沙丁鱼
 - 产地：`韩国 | 日本 | 巴基斯坦 | 印度 | 南美 | 印度尼西亚` </p>
 - 规格：`30～50g` `50～80`</p>
-- 包装：裸妆 `15kg/盘`</p>
+- 包装：裸装 `15kg/盘`</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-9.%E6%B2%99%E4%B8%81%E9%B1%BC--Sardine.jpg">
 </div>
@@ -125,7 +125,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 ## 14.Frozen Red Seabream
-- 产地：`韩国` `日本` `美国`</p>
+- 产地：`韩国 | 日本 | 美国`</p>
 - 规格：`300-500g` `500-800g`</p>
 - 包装：`15公斤/箱`</p>
 <div class="imgb" >
