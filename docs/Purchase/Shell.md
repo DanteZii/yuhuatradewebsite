@@ -14,7 +14,7 @@ pageClass: custom-page-class
 </div>
 
 ## 2. 单冻牡蛎肉--IQF oyster meat
-- 产地：`日本` `韩国`</p>
+- 产地：`日本 | 韩国`</p>
 - 规格：`M`</p>
 - 包装：`20公斤`</p>
 <div class="imgb" >
@@ -30,9 +30,9 @@ pageClass: custom-page-class
 </div>
 
 ## 4. Frozen Cuttlefish-墨鱼
-- 产地：`韩国` `日本` `巴基斯坦` `印度` `印度尼西亚` `也门` `非洲`</p>
+- 产地：`韩国 | 日本 | 巴基斯坦 | 印度 | 印度尼西亚 | 也门 | 非洲`</p>
 - 规格：`200-300` `300-500` `500-700g` `1000-2000g` `2000-3000g`</p>
-- 包装：10公斤/箱</p>
+- 包装：`10公斤/箱`</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-4.%E5%A2%A8%E9%B1%BC--Cuttle%20fish.jpg">
 </div>
