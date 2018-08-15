@@ -134,7 +134,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 - 包装：`10公斤`</p>
 
 <div class="imgb" >
- <img  src="http://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-12.%E9%B2%B1%E9%B1%BC-Frozen%20Herrying%20(Flying%20fish).jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-12.%E9%B2%B1%E9%B1%BC-Frozen%20Herrying%20(Flying%20fish).jpg">
 </div>
 
 
