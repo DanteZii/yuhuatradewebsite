@@ -11,7 +11,7 @@ pageClass: custom-page-class
 
 
 极致的匠心精神，原料选自最好的原产地，在最佳的季节进行捕捞，确保顶级的产品质量
-
+</p>
 
 
 ## 1.Pacific Mackerel-鲐鲅鱼 <Badge text="Hot" type="error"/>
@@ -23,14 +23,17 @@ pageClass: custom-page-class
     <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-1.%E9%B2%90%E9%B2%85%E9%B1%BC--Pacific-Mackerel.jpg">
 </div>
 
+
 ## 2.Frozen Spanish Mackerel-鲅鱼 <Badge text="Hot" type="error"/>
 - 产地：`韩国 | 日本`</p>
 - 规格：`300-400g` `400-600g` `600-800g` `800~1000g` `1000g+`</p>
-- 包装：`10公斤` `15公斤`<p>
+- 包装：`10公斤` `15公斤`</p>
+
 <div class="imgb" >
  <img 
  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-2.%E9%B2%85%E9%B1%BC--Spanish%20Mackerel.jpg">
 </div>
+
 
 ## 3.Frozen Flatfish-鲽鱼 <Badge text="Hot" type="error"/>
 - 产地：`日本`</p>
@@ -40,6 +43,7 @@ pageClass: custom-page-class
  <img 
  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-3.%E9%B2%BD%E9%B1%BC-Fronze%20Flatfish.jpg">
 </div>
+
 
 ## 4.Frozen Yellow Tail-冻黄鰤鱼
 - 产地：`日本 | 韩国` </p>

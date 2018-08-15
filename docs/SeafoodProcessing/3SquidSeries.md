@@ -16,6 +16,7 @@ pageClass: custom-page-class
 ## 2.黄金鱿鱼圈--Golden squid ring
 - 规格：`20±3g` `300g/盒 | 1kg/盒`</p>
 - 包装：`可OEM加工定制`</P>
+
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-S-2.%E9%BB%84%E9%87%91%E9%B1%BF%E9%B1%BC%E5%9C%88--Golden%20squid%20ring.jpg">
 </div>
