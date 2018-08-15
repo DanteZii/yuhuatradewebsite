@@ -15,8 +15,8 @@ pageClass: custom-page-class
 
 
 ## 1.Pacific Mackerel-鲐鲅鱼 <Badge text="Hot" type="error"/>
-- 产地：`韩国 | 日本` </p>
-- 规格：`200-400` `300-500` `400-600` `700+`</p>
+- 产地：`太平洋：中国 | 韩国 | 日本`  `大西洋：挪威 | 冰岛 | 加拿大` </p>
+- 规格：`100-150g` `150-200g` `200-300g` `300-500g` `500-700g`</p>
 - 包装：`10公斤` `15公斤`</p>
 <div class="imgb" >
     <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-1.%E9%B2%90%E9%B2%85%E9%B1%BC--Pacific-Mackerel.jpg">
@@ -120,7 +120,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 - 规格：`20-30pcs` `30-40pcs` `40-50pcs` `50-60pcs` `60-70pcs` `70pcs+/Ib`</p>
 - 包装：`10公斤`</p>
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-13.%E5%A4%9A%E6%98%A5%E9%B1%BC--Capelin.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-13.%E5%A4%9A%E6%98%A5%E9%B1%BC-Frozen%20Capelin.jpg">
 </div>
 
 ## 14.Frozen Red Seabream-加吉鱼
@@ -136,7 +136,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 - 规格：`20cm+`</p>
 - 包装：``</p>
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-15.%E7%8E%89%E7%AD%8B%E9%B1%BC--Sand%20Launce.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-15.%E7%8E%89%E7%AD%8B%E9%B1%BC-Frozen%20Pacific%20Sand%20Lance.jpg">
 </div>
 
 ## 16.Frozen Silver Pomfret-鲳鱼
@@ -145,4 +145,21 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 - 包装：``</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/H-S-2.%E9%B2%B3%E9%B1%BC.jpg">
+</div>
+
+
+## 17.Frozen Hom Fish-马面鱼
+- 产地：`韩国 | 日本 | 印度 | 非洲 | 巴基斯坦 | 印度尼西亚`</p>
+- 规格：`100-200g` `200-300g` `300-400g` `400-600g` `500-700g` `700g+`</p>
+- 包装：``</p>
+<div class="imgb" >
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-17.%E9%A9%AC%E9%9D%A2%E9%B1%BC-Frozen%20Hom%20Fish.jpg">
+</div>
+
+## 18.Frozen file Fish-马步鱼
+- 产地：`韩国 | 日本 | 印度 | 非洲 | 巴基斯坦 | 印度尼西亚`</p>
+- 规格：`13-15cm` `15-18cm` `19-21cm` `21cm+`</p>
+- 包装：``</p>
+<div class="imgb" >
+ <img  src="">
 </div>
