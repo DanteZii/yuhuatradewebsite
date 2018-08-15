@@ -55,13 +55,6 @@ pageClass: custom-page-class
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-C-7.%E9%B3%95%E9%B1%BC%E9%B1%BC%E7%B3%9C%E6%89%8B%E6%8C%87%E6%9D%A1--Minced%20cod%20fingers.jpg">
 </div>
 
-## 8. 南蓝鳕鱼段--South blue cod chunks
-- 规格：`` </p>
-- 包装：`可OEM加工定制`</p>
-<div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-C-8.%E5%8D%97%E8%93%9D%E9%B3%95%E9%B1%BC%E6%AE%B5--South%20blue%20cod%20chunks.jpg">
-</div>
-
 ## 9. 鳕鱼字母饼--Cod letter cakes
 - 规格：`500g/袋` `1kg/袋`</p>
 - 包装：`可OEM加工定制`</p>
