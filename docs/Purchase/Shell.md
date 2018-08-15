@@ -5,14 +5,6 @@ pageClass: custom-page-class
 
 # Shell
 
-## 1. 半壳牡蛎--Half shell oyster
-- 产地：``</p>
-- 规格：`8～10cm`</p>
-- 包装：`120个/箱`</p>
-<div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-1.%E5%8D%8A%E5%A3%B3%E7%89%A1%E8%9B%8E--Half%20shell%20oyster.jpg">
-</div>
-
 ## 2. 单冻牡蛎肉--IQF oyster meat
 - 产地：`日本 | 韩国`</p>
 - 规格：`M`</p>

@@ -14,7 +14,7 @@ pageClass: custom-page-class
 
 
 
-## 1.Pacific Mackerel <Badge text="Hot" type="error"/>
+## 1.Pacific Mackerel-鲐鲅鱼 <Badge text="Hot" type="error"/>
 - 产地：`韩国 | 日本` </p>
 - 规格：`200-400` `300-500` `400-600` `700+`</p>
 - 包装：`10公斤` `15公斤`</p>
@@ -31,14 +31,13 @@ pageClass: custom-page-class
  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-2.%E9%B2%85%E9%B1%BC--Spanish%20Mackerel.jpg">
 </div>
 
-
 ## 3.Frozen Flatfish-鲽鱼 <Badge text="Hot" type="error"/>
 - 产地：`日本`</p>
 - 规格：`50-150` `100-150` `150-200` `200-300` `300-500`</p>
 - 包装：`10公斤` `15公斤`</p>
 <div class="imgb" >
  <img 
- src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-3.%E9%B1%BC--Plaice.jpg">
+ src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-3.%E9%B2%BD%E9%B1%BC-Fronze%20Flatfish.jpg">
 </div>
 
 ## 4.Frozen Yellow Tail-冻黄鰤鱼
@@ -58,13 +57,13 @@ pageClass: custom-page-class
 https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribbonfish.jpg">
 </div>
 
-
 ## 6.Frozen Horse Mackerel-竹荚鱼
 - 产地：`韩国 | 日本`</p>
 - 规格：`40-60g` `60-80g` `80-100g` `90-110g`</p>
 - 包装：`10公斤`</p>
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-6.%E7%AB%B9%E8%8D%9A%E9%B1%BC--Scad.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-6.%E7%AB%B9%E8%8D%9A%E9%B1%BC-Frozen%20Horse%20Mackerel.jpg"></p>
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-6.1.%E7%AB%B9%E8%8D%9A%E9%B1%BC-Frozen%20Horse%20Mackere.jpg">
 </div>
 
 ## 7.Frozen Grey Mullet-鲻鱼
@@ -87,17 +86,17 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 ## 9.Frozen Japanese Pilchard-七星沙丁鱼
 - 产地：`韩国 | 日本 | 巴基斯坦 | 印度 | 南美 | 印度尼西亚` </p>
 - 规格：`30～50g` `50～80`</p>
-- 包装：裸装 `15kg/盘`</p>
+- 包装：`裸装15kg/盘`</p>
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-9.%E6%B2%99%E4%B8%81%E9%B1%BC--Sardine.jpg">
 </div>
 
-## 10.Rubio
+## 10.Fronzen WR Rabio-无鳔鲉鱼（虎头鱼）
 - 产地：`乌拉圭`</p>
-- 规格：`M,L`</p>
+- 规格：`M(150-200g)` `L(200-250g` `LL(250g+)`</p>
 - 包装：`10公斤/箱` `15公斤/箱`</p>
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-10.%E6%97%A0%E9%B3%94%E9%B2%89%E9%B1%BC--Rubio.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-10.%E6%97%A0%E9%B3%94%E9%B2%89%E9%B1%BC-%E8%99%8E%E5%A4%B4%E9%B1%BC-Fronzen%20WR%20Rabio.jpg">
 </div>
 
 ### 11.Frozen Ocellate Spot Skate-老板鱼
@@ -124,7 +123,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-13.%E5%A4%9A%E6%98%A5%E9%B1%BC--Capelin.jpg">
 </div>
 
-## 14.Frozen Red Seabream
+## 14.Frozen Red Seabream-加吉鱼
 - 产地：`韩国 | 日本 | 美国`</p>
 - 规格：`300-500g` `500-800g`</p>
 - 包装：`15公斤/箱`</p>
@@ -132,7 +131,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-14.%E5%8A%A0%E5%90%89%E9%B1%BC--Sea%20bream.jpg">
 </div>
 
-## 15.Frozen Pacific Sand Lance
+## 15.Frozen Pacific Sand Lance-玉筋鱼
 - 产地：`日本`</p>
 - 规格：`20cm+`</p>
 - 包装：``</p>
@@ -140,10 +139,10 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-15.%E7%8E%89%E7%AD%8B%E9%B1%BC--Sand%20Launce.jpg">
 </div>
 
-## 16.Frozen WR Rabio-虎头鱼
-- 产地：`乌拉圭`</p>
-- 规格：`M(150-200g)` `L(200-250g` `LL(250g+)`</p>
+## 16.Frozen Silver Pomfret-鲳鱼
+- 产地：`韩国 | 日本 | 印度 | 巴基斯坦 | 印度尼西亚`</p>
+- 规格：`100-200g` `200-300g` `300-500g` `500-1000g`</p>
 - 包装：``</p>
 <div class="imgb" >
- <img  src="">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/H-S-2.%E9%B2%B3%E9%B1%BC.jpg">
 </div>

@@ -26,18 +26,18 @@ pageClass: custom-page-class
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-4.%E9%BB%84%E9%B0%A4%E9%B1%BC--Yellowtail.jpg">
 </div>
 
-## 3. Tempura shrimp
-缺少资料
+## 3. Tempura shrimp-天妇罗虾
+- 类型：`原味22g/支` `调味23g/支`</p>
+- 规格：`10支/盘`</p>
+- 包装：`12盘/箱`</p>
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-2.%E5%A4%A9%E5%A6%87%E7%BD%97%E8%99%BE--Tempura%20shrimp.jpg">
 </div>
 
-## 4. Sushi fish fillet  
-### Type:
-1.Eel Sashimi
-2.Herring Sashimi
-3.Red fish Sashimi
-
+## 4. Sushi fish fillet
+- 类型：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
+- 规格：`30尾` `30片/盘` `100克/盘` </p>
+- 包装：`40盘/箱` `4公斤/箱`</p>
 ### Specification: 
 30pcs/tray, 100g/tray
 

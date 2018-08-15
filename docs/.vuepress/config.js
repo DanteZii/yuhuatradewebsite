@@ -21,23 +21,22 @@ module.exports = {
     themeConfig: {
         sidebar: [
             {
-                title: 'Recommend',
+                title: '推荐类-Recommend',
                 collapsable: true,
                 children: [
                     '/Recommend/'
                 ]
             },
                 {
-                    title: 'ProcurementProducts',
+                    title: '采购类ProcurementProducts',
                     collapsable: false,
                     children: [
                         '/Purchase/',
-                        '/Purchase/Shell',
-                        '/Purchase/Shrimp'
+                        '/Purchase/Shell'
                     ]
             },
                 {
-                    title: 'AquaticProcessingSeries',
+                    title: '水产加工-AquaticProcessingSeries',
                     collapsable: false,
                     children: [
                         '/SeafoodProcessing/1Other',
@@ -47,16 +46,15 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'VegetableProcessingSeries',
+                    title: '蔬菜加工-VegetableProcessingSeries',
                     collapsable: false,
                     children: [
                         '/VegetableProcessing/',
-                        '/VegetableProcessing/2Fungus',
-                        '/VegetableProcessing/3Fruit'
+                        '/VegetableProcessing/2Fungus'
                     ]
                 },
                 {
-                    title: '24HoursAirCargo',
+                    title: '24小时直达-24HoursAirCargo',
                     collapsable: false,
                     children: [
                         '/24HoursAirCargo/Farming',
