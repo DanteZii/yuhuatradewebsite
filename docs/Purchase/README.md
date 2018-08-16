@@ -37,7 +37,7 @@ pageClass: custom-page-class
 
 ## 3.Frozen Flatfish-鲽鱼 <Badge text="Hot" type="error"/>
 - 产地：`日本`</p>
-- 规格：`50-150` `100-150` `150-200` `200-300` `300-500`</p>
+- 规格：`50-150g` `100-150g` `150-200g` `200-300g` `300-500g`</p>
 - 包装：`10公斤` `15公斤`</p>
 <div class="imgb" >
  <img 
@@ -47,7 +47,7 @@ pageClass: custom-page-class
 
 ## 4.Frozen Yellow Tail-冻黄鰤鱼
 - 产地：`日本 | 韩国` </p>
-- 规格：`300-500` `1-2kg` `5-6kg` `6-9kg`</p>
+- 规格：`300-500g` `1-2kg` `5-6kg` `6-9kg`</p>
 - 包装：`不定重` `2-3条/箱`</p>
 
 <div class="imgb" >
@@ -100,7 +100,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 ## 9.Frozen Japanese Pilchard-七星沙丁鱼
 - 产地：`韩国 | 日本 | 巴基斯坦 | 印度 | 南美 | 印度尼西亚` </p>
-- 规格：`30～50g` `50～80`</p>
+- 规格：`30～50g` `50～80g`</p>
 - 包装：`裸装15kg/盘`</p>
 
 <div class="imgb" >
@@ -130,7 +130,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 ## 12.Frozen Herrying (Flying fish)-鲱鱼
 - 产地：`韩国 | 俄罗斯`</P>
-- 规格：`200-300`</p>
+- 规格：`200-300g`</p>
 - 包装：`10公斤`</p>
 
 <div class="imgb" >

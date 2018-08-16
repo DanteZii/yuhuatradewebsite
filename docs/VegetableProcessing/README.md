@@ -86,7 +86,7 @@ pageClass: custom-page-class
 
 
 ### 9.白花菜
-- 可指定品种
+- 可指定品种 </p>
 - 规格：`500g/包` </p>
 - 包装：`1kg/袋` `OEM加工定制`</P>
 
@@ -96,7 +96,7 @@ pageClass: custom-page-class
 
 
 ### 10.豆腐包
-- 可指定品种
+- 可指定品种 </p>
 - 规格：`25g/个` </p>
 - 包装：`1kg/袋` `OEM加工定制`</P>
 

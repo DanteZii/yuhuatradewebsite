@@ -9,7 +9,7 @@ pageClass: custom-page-class
 ## 1. Bluefin tuna-蓝鳍金枪鱼    
 自主加工场 -60度超低温冷库 匠心精神 品质卓越.
 - 产地：`地中海` </p>
-- 规格：`40+` `50+` `60+` `70+` `60～80Kg/条`</p>
+- 规格：`40kg+` `50kg+` `60kg+` `70kg+` `60～80Kg/条`</p>
 - 包装： `真空包装根据客户需求` `真空包装可DIY`</p>
 
 <div class="imgb">
@@ -22,7 +22,7 @@ pageClass: custom-page-class
 
 ## 2. Yellow tail-冻黄鰤鱼
 - 产地：`日本 | 韩国` </p>
-- 规格：`300-500` `1-2kg` `5-6kg` `6-9kg`</p>
+- 规格：`300-500g` `1-2kg` `5-6kg` `6-9kg`</p>
 - 包装：`不定重` `2-3条/箱`</p>
 
 <div class="imgb">
@@ -52,7 +52,7 @@ pageClass: custom-page-class
 </div>
 
 ## 5. Octopus ball 
-- 规格：`1个5克`</p>
+- 规格：`1/5克`</p>
 - 包装： `5000个/袋`</p>
 
 <div class="imgb">
