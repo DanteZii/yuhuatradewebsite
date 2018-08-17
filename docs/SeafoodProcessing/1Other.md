@@ -16,17 +16,7 @@ pageClass: custom-page-class
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/demoFish.jpg">
 </div>
 
-
-## 2.BreadedOyseters-天妇罗牡蛎肉
-- 规格：`500g/盘/袋`</P>
-- 包装形式：`10袋/箱`</p>
-
-<div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-1.%E9%9D%A2%E5%8C%85%E7%B2%89%E7%89%A1%E8%9B%8E--Breaded%20oyseters.jpg">
-</div>
-
-
-## 3.TempuraShrimp-天妇罗虾
+## 2.TempuraShrimp-天妇罗虾
 - 类型：`原味22g/支` `调味23g/支`</p>
 - 规格：`10支/盘`</p>
 - 包装：`12盘/箱`</p>
@@ -36,7 +26,7 @@ pageClass: custom-page-class
 </div>
 
 
-## 4. Sweet shrimp sashimi 
+## 3. Sweet shrimp sashimi 
 - 类型：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
 - 规格：`30尾` `30片/盘` `100克/盘` </p>
 - 包装：`40盘/箱` `4公斤/箱`</p>
@@ -46,10 +36,10 @@ pageClass: custom-page-class
 </div>
 
 
-## 5.Octopus ball--章鱼丸子
+## 4.Octopus ball--章鱼丸子
 - 规格：`50克/个`</p>
 - 包装： `5000/袋`</p>
 
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/R-5.%E7%AB%A0%E9%B1%BC%E4%B8%B8%E5%AD%90--Octopus%20ball.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-O-%E7%AB%A0%E9%B1%BC%E4%B8%B8%E5%AD%90-Octopus%20ball.jpg">
 </div>

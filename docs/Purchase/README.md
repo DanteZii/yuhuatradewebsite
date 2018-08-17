@@ -35,7 +35,7 @@ pageClass: custom-page-class
 </div>
 
 
-## 3.Frozen Flatfish-鲽鱼 <Badge text="Hot" type="error"/>
+## 3.FLOUNDER-鲽鱼 <Badge text="Hot" type="error"/>
 - 产地：`日本`</p>
 - 规格：`50-150g` `100-150g` `150-200g` `200-300g` `300-500g`</p>
 - 包装：`10公斤` `15公斤`</p>
@@ -78,7 +78,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 
 ## 7.Frozen Grey Mullet-鲻鱼
-- 产地：`日本` </p>
+- 产地：`韩国` `日本` `非洲` </p>
 - 规格：`1.5-2.5kg` `2-4kg`</p>
 - 包装： `15kg/箱` </p>
 
@@ -94,17 +94,17 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 - 包装：`10公斤` `15公斤`</p>
 
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-8.%E7%A7%8B%E5%88%80%E9%B1%BC--Saury.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-%E7%A7%8B%E5%88%80%E9%B1%BC-Frozen%20Pacific%20Saury.jpg">
 </div>
 
 
 ## 9.Frozen Japanese Pilchard-七星沙丁鱼
 - 产地：`韩国 | 日本 | 巴基斯坦 | 印度 | 南美 | 印度尼西亚` </p>
-- 规格：`30～50g` `50～80g`</p>
+- 规格：`60～80g` `70～90g` `80-110` `100-130` </p>
 - 包装：`裸装15kg/盘`</p>
 
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-9.%E6%B2%99%E4%B8%81%E9%B1%BC--Sardine.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-%E6%B2%99%E4%B8%81%E9%B1%BC-Frozen%20Japanese%20Pilchard.jpg">
 </div>
 
 
@@ -114,7 +114,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 - 包装：`10公斤/箱` `15公斤/箱`</p>
 
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-10.%E6%97%A0%E9%B3%94%E9%B2%89%E9%B1%BC-%E8%99%8E%E5%A4%B4%E9%B1%BC-Fronzen%20WR%20Rabio.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-%E8%99%8E%E5%A4%B4%E9%B1%BC-Fronzen%20WR%20Rabio.jpg">
 </div>
 
 
@@ -138,7 +138,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-## 13.Frozen Capelin-多春鱼
+## 13.Frozen Smelt-胡瓜鱼
 - 产地：`加拿大 | 冰岛 | 挪威`</p>
 - 规格：`20-30pcs` `30-40pcs` `40-50pcs` `50-60pcs` `60-70pcs` `70pcs+/Ib`</p>
 - 包装：`10公斤`</p>
@@ -193,5 +193,5 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 - 规格：`13-15cm` `15-18cm` `19-21cm` `21cm+`</p>
 - 包装：``</p>
 <div class="imgb" >
- <img  src="">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-%E9%A9%AC%E6%AD%A5%E9%B1%BC-Frozen%20file%20Fish.jpg">
 </div>
