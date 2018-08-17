@@ -22,11 +22,16 @@ pageClass: custom-page-class
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-Su-1.%E9%BB%84%E9%B0%A4%E9%B1%BC%E9%B1%BC%E7%89%87--Yellow%20tail%20fillet.jpg">
 </div>
 
+## 3. Sushi fish fillet-寿司鱼片
+- 类型：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
+- 规格：`30尾` `30片/盘` `100克/盘` </p>
+- 包装：`40盘/箱` `4公斤/箱`</p>
+### Specification: 
+30pcs/tray, 100g/tray
 
-## 3. 寿司鱼片--Sashimi
-- 规格：`30尾/盘` `100g/盘` </p>
-- 包装：`50盘一箱` </p>
+<div class="imgb">
+ <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-Su-2.%E5%AF%BF%E5%8F%B8%E9%B1%BC%E7%89%87--Sashimi.jpg">
+ </p>
+ <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-O-%E5%AF%BF%E5%8F%B8%E9%B1%BC%E7%89%87-Sushi%20fish%20fillet.jpg">
 
-<div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-Su-2.%E5%AF%BF%E5%8F%B8%E9%B1%BC%E7%89%87--Sashimi.jpg">
 </div>

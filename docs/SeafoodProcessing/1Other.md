@@ -25,22 +25,7 @@ pageClass: custom-page-class
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-2.%E5%A4%A9%E5%A6%87%E7%BD%97%E8%99%BE--Tempura%20shrimp.jpg">
 </div>
 
-## 3. Sushi fish fillet-寿司鱼片
-- 类型：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
-- 规格：`30尾` `30片/盘` `100克/盘` </p>
-- 包装：`40盘/箱` `4公斤/箱`</p>
-### Specification: 
-30pcs/tray, 100g/tray
-
-<div class="imgb">
- <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-Su-2.%E5%AF%BF%E5%8F%B8%E9%B1%BC%E7%89%87--Sashimi.jpg">
- </p>
- <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-O-%E5%AF%BF%E5%8F%B8%E9%B1%BC%E7%89%87-Sushi%20fish%20fillet.jpg">
-
-</div>
-
-
-## 4.Octopus ball--章鱼丸子
+## 3.Octopus ball--章鱼丸子
 - 规格：`50克/个`</p>
 - 包装： `5000/袋`</p>
 
@@ -50,7 +35,7 @@ pageClass: custom-page-class
 
 
 
-## 6. Sweet shrimp sashimi-北极甜虾
+## 4. Sweet shrimp sashimi-北极甜虾
 - 规格：`30尾` `30片/盘` `100克/盘` </p>
 - 包装：`40盘/箱` `4公斤/箱`</p>
 

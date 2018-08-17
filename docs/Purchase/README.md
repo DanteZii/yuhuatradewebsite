@@ -192,6 +192,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 - 产地：`韩国 | 日本 | 印度 | 非洲 | 巴基斯坦 | 印度尼西亚`</p>
 - 规格：`13-15cm` `15-18cm` `19-21cm` `21cm+`</p>
 - 包装：``</p>
+
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-%E9%A9%AC%E6%AD%A5%E9%B1%BC-Frozen%20file%20Fish.jpg">
 </div>

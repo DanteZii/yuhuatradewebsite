@@ -94,12 +94,3 @@ pageClass: custom-page-class
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-9.%E7%99%BD%E8%8A%B1%E8%8F%9C--Cauliflower.jpg">
 </div>
 
-
-### 10.豆腐包
-- 可指定品种 </p>
-- 规格：`25g/个` </p>
-- 包装：`1kg/袋` `OEM加工定制`</P>
-
-<div class="imgb" >
-</div>
-<div class="interval"></div>
