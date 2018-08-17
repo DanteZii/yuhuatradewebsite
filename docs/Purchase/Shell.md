@@ -39,7 +39,7 @@ pageClass: custom-page-class
 进口，鲜品，需要根据市场价格来定
 
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-O-%E7%AB%A0%E9%B1%BC%E4%B8%B8%E5%AD%90-Octopus%20ball.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-%E9%B2%9C%E6%B4%BB%E5%A4%8F%E5%A4%B7%E8%B4%9D.jpg">
 </div>
 
 
