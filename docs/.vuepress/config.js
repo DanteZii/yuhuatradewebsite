@@ -36,7 +36,7 @@ module.exports = {
                     ]
             },
                 {
-                    title: '水产加工-AquaticProcessingSeries',
+                    title: 'AquaticProcessingSeries',
                     collapsable: false,
                     children: [
                         '/SeafoodProcessing/1Other',
@@ -46,7 +46,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: '蔬菜加工-VegetableProcessingSeries',
+                    title: 'VegetableProcessingSeries',
                     collapsable: false,
                     children: [
                         '/VegetableProcessing/',
@@ -54,7 +54,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: '24小时直达-24HoursAirCargo',
+                    title: '24HoursAirCargo',
                     collapsable: false,
                     children: [
                         '/24HoursAirCargo/Farming',

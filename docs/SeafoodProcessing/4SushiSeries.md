@@ -5,27 +5,27 @@ pageClass: custom-page-class
 
 # SalmonFillet
 
-## 1.烟熏三文鱼片--SmokedSalmonFillet
-- 规格：`1000~2000` </p>
-- 包装：`可OEM加工定制`</P>
+## 1. SmokedSalmonFillet
+- Weight：`1000~2000` </p>
+- Packing：`可OEM加工定制`</P>
 
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-Su-3.%E7%83%9F%E7%86%8F%E4%B8%89%E6%96%87%E9%B1%BC%E9%B1%BC%E7%89%87--Smoked%20salmon%20fillet.jpg">
 </div>
 
 
-## 2.黄鰤鱼鱼片--Yellow tail fillet
-- 规格：`2500+` </p>
-- 包装：`不定重` `2～3条/箱` </p>
+## 2. Yellow tail fillet
+- Weight：`2500+` </p>
+- Packing：`Custom weight` `2～3条/ctn` </p>
 
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-Su-1.%E9%BB%84%E9%B0%A4%E9%B1%BC%E9%B1%BC%E7%89%87--Yellow%20tail%20fillet.jpg">
 </div>
 
-## 3. Sushi fish fillet-寿司鱼片
-- 类型：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
-- 规格：`30尾` `30片/盘` `100克/盘` </p>
-- 包装：`40盘/箱` `4公斤/箱`</p>
+## 3. Sushi fish fillet
+- Type：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
+- Weight：`30尾` `30pcs/tray` `100克/tray` </p>
+- Packing：`40trays/ctn` `4kg/ctn`</p>
 ### Specification: 
 30pcs/tray, 100g/tray
 

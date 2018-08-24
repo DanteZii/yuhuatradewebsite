@@ -4,10 +4,12 @@ pageClass: custom-page-class
 ---
 # Farming
 
-## Frozen Bluefin Tuna-蓝鳍金枪鱼 
-- 主要采购国家：`地中海` </p>
-- 规格：`40kg+` `50kg+` `60kg+` `70kg+` </p>
-- 包装： `真空包装根据客户需求` `真空包装可DIY`</p>
+## 1. Frozen Bluefin Tuna
+自主加工场 -60度超低温冷库 匠心精神 品质卓越.
+- origin：`Mediterranean` </p>
+- Weight：`40kg+` `50kg+` `60kg+` `70kg+` `60～80Kg/条`</p>
+- Packing： `Vacuum Pack ` ` Custom weight `</p>
+
 
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-0.%E8%97%8D%E9%B0%AD%E9%87%91%E6%9E%AA%E9%B1%BC-Bluefin-tuna.jpg">
@@ -17,10 +19,10 @@ pageClass: custom-page-class
 </div>
 
 
-## Frozen Yellow Tail-黄鰤鱼
-- 产地：`日本 | 韩国` </p>
-- 规格：`300-500` `1-2kg` `5-6kg` `6-9kg`</p>
-- 包装：`不定重` `2-3条/箱`</p>
+## 2. Frozen Yellow Tail
+- origin：`japanese | Korea` </p>
+- Weight：`300-500` `1-2kg` `5-6kg` `6-9kg`</p>
+- Packing：`Custom weight` `2-3条/ctn`</p>
 
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-4.%E9%BB%84%E9%B0%A4%E9%B1%BC--Yellowtail.jpg">
