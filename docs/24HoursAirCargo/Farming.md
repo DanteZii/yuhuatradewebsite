@@ -4,9 +4,10 @@ pageClass: custom-page-class
 ---
 # Farming
 
-## 1. Frozen Bluefin Tuna
-自主加工场 -60度超低温冷库 匠心精神 品质卓越.
-- origin：`Mediterranean` </p>
+### 1. Frozen Bluefin Tuna
+<hr>
+
+- Origin：`Mediterranean` </p>
 - Weight：`40kg+` `50kg+` `60kg+` `70kg+` `60～80Kg/条`</p>
 - Packing： `Vacuum Pack ` ` Custom weight `</p>
 
@@ -19,8 +20,10 @@ pageClass: custom-page-class
 </div>
 
 
-## 2. Frozen Yellow Tail
-- origin：`japanese | Korea` </p>
+### 2. Frozen Yellow Tail
+<hr>
+
+- Origin：`japanese | Korea` </p>
 - Weight：`300-500` `1-2kg` `5-6kg` `6-9kg`</p>
 - Packing：`Custom weight` `2-3条/ctn`</p>
 

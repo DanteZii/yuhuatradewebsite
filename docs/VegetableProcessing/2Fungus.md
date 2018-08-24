@@ -5,9 +5,11 @@ pageClass: custom-page-class
 
 # Fungus
 
-## 1. Frozen pleurotuseryngii cubes
-- 可指定品种 </p>
-- Weight：`500g/包` </p>
+### 1. Frozen pleurotuseryngii cubes
+<hr>
+
+- Custom variety </p>
+- Weight：`500g/wrapper` </p>
 - Packing：`1kg/袋` `OEM加工定制`</P>
 
 <div class="imgb" >
@@ -15,9 +17,11 @@ pageClass: custom-page-class
 </div>
 
 
-## 2. Dried burdock pieces
-- 可指定品种</p>
-- Weight：`500g/包` </p>
+### 2. Dried burdock pieces
+<hr>
+
+- Custom variety</p>
+- Weight：`500g/wrapper` </p>
 - Packing：`1kg/袋``OEM加工定制`</P>
 
 <div class="imgb" >

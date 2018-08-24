@@ -6,7 +6,10 @@ pageClass: custom-page-class
 # 列表
 
 
-## 1. 蓝鳍金枪鱼    
+
+### 1. 蓝鳍金枪鱼   
+<hr> 
+
 自主加工场 -60度超低温冷库 匠心精神 品质卓越.
 - 产地：`地中海` </p>
 - 规格：`40kg+` `50kg+` `60kg+` `70kg+` `60～80Kg/条`</p>
@@ -20,7 +23,9 @@ pageClass: custom-page-class
 </div>
 
 
-## 2. 冻黄鰤鱼
+### 2. 冻黄鰤鱼
+<hr>
+
 - 产地：`日本 | 韩国` </p>
 - 规格：`300-500g` `1-2kg` `5-6kg` `6-9kg`</p>
 - 包装：`不定重` `2-3条/箱`</p>
@@ -30,7 +35,9 @@ pageClass: custom-page-class
 </div>
 
 
-## 3. 天妇罗虾
+### 3. 天妇罗虾
+<hr>
+
 - 类型：`原味22g/支` `调味23g/支`</p>
 - 规格：`10支/盘`</p>
 - 包装：`12盘/箱`</p>
@@ -40,12 +47,12 @@ pageClass: custom-page-class
 </div>
 
 
-## 4. 寿司鱼片
+### 4. 寿司鱼片
+<hr>
+
 - 类型：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
 - 规格：`30尾` `30片/盘` `100克/盘` </p>
 - 包装：`40盘/箱` `4公斤/箱`</p>
-### Specification: 
-30pcs/tray, 100g/tray
 
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-Su-2.%E5%AF%BF%E5%8F%B8%E9%B1%BC%E7%89%87--Sashimi.jpg">
@@ -53,7 +60,9 @@ pageClass: custom-page-class
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-O-%E5%AF%BF%E5%8F%B8%E9%B1%BC%E7%89%87-Sushi%20fish%20fillet.jpg">
 </div>
 
-## 5. 章鱼丸
+### 5. 章鱼丸
+<hr>
+
 - 规格：`1/5克`</p>
 - 包装： `5000个/袋`</p>
 
@@ -62,7 +71,9 @@ pageClass: custom-page-class
 </div>
        
 
-## 6. 北极甜虾
+### 6. 北极甜虾
+<hr>
+
 - 规格：`30尾` `30片/盘` `100克/盘` </p>
 - 包装：`40盘/箱` `4公斤/箱`</p>
 

@@ -5,7 +5,9 @@ pageClass: custom-page-class
 
 # 菌类
 
-## 1. 冷冻杏鲍菇丁
+### 1. 冷冻杏鲍菇丁
+<hr>
+
 - 可指定品种 </p>
 - 规格：`500g/包` </p>
 - 包装：`1kg/袋` `OEM加工定制`</P>
@@ -15,7 +17,9 @@ pageClass: custom-page-class
 </div>
 
 
-## 2. 干蒡丝
+### 2. 干蒡丝
+<hr>
+
 - 可指定品种</p>
 - 规格：`500g/包` </p>
 - 包装：`1kg/袋``OEM加工定制`</P>
