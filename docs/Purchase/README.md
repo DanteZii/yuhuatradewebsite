@@ -14,7 +14,7 @@ pageClass: custom-page-class
 </p>
 
 
-### 1.Pacific Mackerel <Badge text="Hot" type="error"/>
+### 1. Pacific Mackerel <Badge text="Hot" type="error"/>
 <hr>
 
 - Origin：`PO：China | Korea | Japanese`  `Atlantic：Norway | Iceland | Canada` </p>
@@ -26,7 +26,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 2.Frozen Spanish Mackerel <Badge text="Hot" type="error"/>
+### 2. Frozen Spanish Mackerel <Badge text="Hot" type="error"/>
 <hr>
 
 - Origin：`Korea | Japanese`</p>
@@ -38,7 +38,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 3.FLOUNDER <Badge text="Hot" type="error"/>
+### 3. FLOUNDER <Badge text="Hot" type="error"/>
 <hr>
 
 - Origin：`Japanese`</p>
@@ -50,7 +50,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 4.Frozen Yellow Tail
+### 4. Frozen Yellow Tail <Badge text="Hot" type="error"/> <Badge text="24hours"/>
 <hr>
 
 - Origin：`Japanese | Korea` </p>
@@ -62,7 +62,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 5.Frozen Large Head Hairtail
+### 5. Frozen Large Head Hairtail  <Badge text="24小时直达"/>
 <hr>
 
 - Origin：`Korea | Japanese | South America| Brazil | Pakistan | Africa | Middle East`</p>
@@ -75,7 +75,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 6.Frozen Horse Mackerel
+### 6. Frozen Horse Mackerel <Badge text="24hours"/>
 <hr>
 
 - Origin：`Korea | Japanese`</p>
@@ -85,7 +85,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 7.Frozen Grey Mullet
+### 7. Frozen Grey Mullet
 <hr>
 
 - Origin：`Korea` `Japanese` `Africa` </p>
@@ -97,7 +97,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 8.Frozen Pacific Saury
+### 8. Frozen Pacific Saury
 <hr>
 
 - Origin：`China | Korea`</p>
@@ -122,7 +122,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 10.Fronzen WR Rabio
+### 10. Fronzen WR Rabio
 <hr>
 
 - Origin：`Uruguay`</p>
@@ -134,7 +134,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-#### 11.Frozen Ocellate Spot Skate
+#### 11. Frozen Ocellate Spot Skate
 <hr>
 
 - Origin：`Korea | Japanese | Southeast Asia | Africa`</p>
@@ -146,7 +146,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 12.Frozen Herrying (Flying fish)
+### 12. Frozen Herrying (Flying fish)
 <hr>
 
 - Origin：`Korea | Russia`</P>
@@ -170,7 +170,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 14.Frozen Red Seabream
+### 14. Frozen Red Seabream
 <hr>
 
 - Origin：`Korea | Japanese | America`</p>
@@ -182,7 +182,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 15.Frozen Pacific Sand Lance
+### 15. Frozen Pacific Sand Lance
 <hr>
 
 - Origin：`Japanese`</p>
@@ -194,7 +194,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 16.Frozen Silver Pomfret
+### 16. Frozen Silver Pomfret <Badge text="24小时直达"/>
 <hr>
 
 - Origin：`Korea | Japanese | India | Pakistan | Indonesia`</p>
@@ -206,7 +206,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 17.Frozen Hom Fish
+### 17. Frozen Hom Fish
 <hr>
 
 - Origin：`Korea | Japanese | India | Africa | Pakistan | Indonesia`</p>
@@ -218,7 +218,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 18.Frozen file Fish
+### 18. Frozen file Fish
 <hr>
 
 - Origin：`Korea | Japanese | India | Africa | Pakistan | Indonesia`</p>

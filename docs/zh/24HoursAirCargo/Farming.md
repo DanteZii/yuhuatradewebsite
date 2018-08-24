@@ -4,7 +4,7 @@ pageClass: custom-page-class
 ---
 # 养殖
 
-### 1. 蓝鳍金枪鱼
+### 1. 蓝鳍金枪鱼  <Badge text="24小时直达"/>
 <hr>
 
 - 主要采购国家：`地中海` </p>
@@ -19,7 +19,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 2. 黄鰤鱼
+### 2. 黄鰤鱼 <Badge text="24小时直达"/>
 <hr>
 
 - 产地：`日本 | 韩国` </p>

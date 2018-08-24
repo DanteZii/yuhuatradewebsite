@@ -4,7 +4,7 @@ pageClass: custom-page-class
 ---
 # 野生
 
-#### 1. 竹荚鱼
+#### 1. 竹荚鱼 <Badge text="24小时直达"/>
 <hr>
 
 - 产地：`韩国 | 日本`</p>

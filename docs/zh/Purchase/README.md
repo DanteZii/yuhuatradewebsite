@@ -14,7 +14,7 @@ pageClass: custom-page-class
 </p>
 
 
-### 1. 鲐鲅鱼 <Badge text="Hot" type="error"/>
+### 1. 鲐鲅鱼 <Badge text="畅销" type="error"/> 
 <hr>
 
 - 产地：`太平洋：中国 | 韩国 | 日本`  `大西洋：挪威 | 冰岛 | 加拿大` </p>
@@ -26,7 +26,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 2. 鲅鱼 <Badge text="Hot" type="error"/>
+### 2. 鲅鱼 <Badge text="畅销" type="error"/> 
 <hr>
 
 - 产地：`韩国 | 日本`</p>
@@ -38,7 +38,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 3. 鲽鱼 <Badge text="Hot" type="error"/>
+### 3. 鲽鱼 <Badge text="畅销" type="error"/> 
 <hr>
 
 - 产地：`日本`</p>
@@ -50,7 +50,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 4. 冻黄鰤鱼
+### 4. 冻黄鰤鱼 <Badge text="畅销" type="error"/> <Badge text="24小时直达"/>
 <hr>
 
 - 产地：`日本 | 韩国` </p>
@@ -62,7 +62,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 5. 带鱼
+### 5. 带鱼 <Badge text="24小时直达"/>
 <hr>
 
 - 产地：`韩国 | 日本 | 南美洲| 巴西 | 巴基斯坦 | 非洲 | 中东`</p>
@@ -75,7 +75,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 6. 竹荚鱼
+### 6. 竹荚鱼 <Badge text="24小时直达"/>
 <hr>
 
 - 产地：`韩国 | 日本`</p>
@@ -194,7 +194,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 16. 鲳鱼
+### 16. 鲳鱼 <Badge text="24小时直达"/>
 <hr>
 
 - 产地：`韩国 | 日本 | 印度 | 巴基斯坦 | 印度尼西亚`</p>

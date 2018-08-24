@@ -7,7 +7,7 @@ pageClass: custom-page-class
 
 
 
-### 1. Bluefin tuna  
+### 1. Bluefin tuna  <Badge text="Hot" type="error"/> <Badge text="24hours"/>
 <hr>
 
 - Origin：`Mediterranean` </p>
@@ -22,7 +22,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 2. Yellow tail
+### 2. Yellow tail <Badge text="Hot" type="error"/> <Badge text="24hours"/>
 <hr>
 
 - Origin：`Japanese | Korea` </p>
@@ -34,7 +34,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 3. Tempura shrimp
+### 3. Tempura shrimp <Badge text="Hot" type="error"/>
 <hr>
 
 - Type：`Original and vivid 22g/pcs` `Seasoning 23g/pcs`</p>
@@ -46,7 +46,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 4. Sushi fish fillet
+### 4. Sushi fish fillet 
 <hr>
 
 - Type：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>

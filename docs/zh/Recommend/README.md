@@ -7,7 +7,7 @@ pageClass: custom-page-class
 
 
 
-### 1. 蓝鳍金枪鱼   
+### 1. 蓝鳍金枪鱼  <Badge text="畅销" type="error"/>   <Badge text="24小时直达"/>
 <hr> 
 
 自主加工场 -60度超低温冷库 匠心精神 品质卓越.
@@ -23,7 +23,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 2. 冻黄鰤鱼
+### 2. 冻黄鰤鱼 <Badge text="畅销" type="error"/> <Badge text="24小时直达"/>
 <hr>
 
 - 产地：`日本 | 韩国` </p>
@@ -35,7 +35,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 3. 天妇罗虾
+### 3. 天妇罗虾 <Badge text="畅销" type="error"/> 
 <hr>
 
 - 类型：`原味22g/支` `调味23g/支`</p>

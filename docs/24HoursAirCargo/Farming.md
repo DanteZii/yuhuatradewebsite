@@ -4,7 +4,7 @@ pageClass: custom-page-class
 ---
 # Farming
 
-### 1. Frozen Bluefin Tuna
+### 1. Frozen Bluefin Tuna <Badge text="Hot" type="error"/> <Badge text="24hours"/>
 <hr>
 
 - Origin：`Mediterranean` </p>
@@ -20,7 +20,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 2. Frozen Yellow Tail
+### 2. Frozen Yellow Tail  <Badge text="Hot" type="error"/> <Badge text="24hours"/>
 <hr>
 
 - Origin：`japanese | Korea` </p>

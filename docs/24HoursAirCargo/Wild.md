@@ -4,7 +4,7 @@ pageClass: custom-page-class
 ---
 # Wild
 
-### 1. Frozen Horse Mackerel
+### 1. Frozen Horse Mackerel <Badge text="24hours"/>
 <hr>
 
 - Origin：`Japanese | Korea`</p>
