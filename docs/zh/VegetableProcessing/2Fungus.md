@@ -1,31 +1,25 @@
 ---
 sidebarDepth: 1
+pageClass: custom-page-class
 ---
 
-## 菌类
+# 菌类
 
-### 冷冻杏鲍菇丁
-<p><strong>主要采购国家：</strong>进口种子指定品种</p>
-<p><strong>规格：</strong>500克/包</p>
+## 1. 冷冻杏鲍菇丁
+- 可指定品种 </p>
+- 规格：`500g/包` </p>
+- 包装：`1kg/袋` `OEM加工定制`</P>
 
-<figure class="third">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Frozen%20pleurotus%20eryngii%20cubes%20%E6%8B%B7%E8%B4%9D.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Frozen%20pleurotus%20eryngii%20cubes%20%281%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Frozen%20pleurotus%20eryngii%20cubes%20%282%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Frozen%20pleurotus%20eryngii%20cubes%20%284%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-</figure>
-<hr>
+<div class="imgb" >
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-F-1.%E5%86%B7%E5%86%BB%E6%9D%8F%E9%B2%8D%E8%8F%87%E4%B8%81-Frozen%20pleurotuseryngii%20cubes.jpg">
+</div>
 
 
+## 2. 干蒡丝
+- 可指定品种</p>
+- 规格：`500g/包` </p>
+- 包装：`1kg/袋``OEM加工定制`</P>
 
-### 干蒡丝
-<p><strong>主要采购国家：</strong>进口种子指定品种</p>
-<p><strong>规格：</strong>500克/包</p>
-
-<figure class="third">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Dried%20burdock%20piece%20%E6%8B%B7%E8%B4%9D.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Dried%20burdock%20piece%20%281%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Dried%20burdock%20piece%20%282%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Dried%20burdock%20piece%20%283%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-</figure>
-<hr>
+<div class="imgb" >
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-F-2.%E5%B9%B2%E8%92%A1%E4%B8%9D--Dried%20burdock%20pieces.jpg">
+</div>

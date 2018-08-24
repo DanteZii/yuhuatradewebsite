@@ -1,51 +1,45 @@
 ---
 sidebarDepth: 1
+pageClass: custom-page-class
 ---
 
-# 贝壳类
+# 壳类
 
-## 1. 半壳牡蛎--Half shell oyster
+## 1. 单冻牡蛎肉
+- 产地：`日本 | 韩国`</p>
+- 规格：`M`</p>
+- 包装：`20公斤`</p>
 
-## 2. 单冻牡蛎肉--IQF oyster meat
-
-## 3. 加州笔管
-<p><strong>主要采购国家：</strong>美国</p>
-<p><strong>规格：</strong>8-10，10-12，含籽量40、50</p>
-<p><strong>包装：</strong></p>
-
-<figure class="third">
-    <img src="http://p93s97xb4.bkt.clouddn.com/California%20squid%E6%8B%B7%E8%B4%9D.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/California%20squid%20%281%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/California%20squid%20%282%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/California%20squid%20%284%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-</figure>
-<hr>
-
-## 4. 墨鱼
-<p><strong>主要采购国家：</strong>韩国、日本、巴基斯坦、印度、印度尼西亚、也门、非洲</p>
-<p><strong>规格：</strong>100-200，200-300，300-500，500-700</p>
-<p><strong>包装：</strong>10公斤/箱</p>
-
-<figure class="third">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Cuttlefish%20%283%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Cuttlefish%20%282%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Cuttlefish%20%284%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Cuttlefish%20%285%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-</figure>
-<hr>
+<div class="imgb" >
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-2.%E5%8D%95%E5%86%BB%E7%89%A1%E8%9B%8E%E8%82%89--IQF%20oyster%20meat.jpg">
+</div>
 
 
-## 5. 鲜活夏衣贝
+## 2. 加州笔管
+- 产地：`美国`</p>
+- 规格：`40%籽` `50%籽` `8-10pcs` `10-11pcs` `11-12pcs` `12-14pcs/Ib`</p>
+- 包装：</p>
+
+<div class="imgb" >
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-3.%E5%8A%A0%E5%B7%9E%E7%AC%94%E7%AE%A1--California%20squid%202.jpg">
+</div>
+
+
+## 3. 墨鱼
+- 产地：`韩国 | 日本 | 巴基斯坦 | 印度 | 印度尼西亚 | 也门 | 非洲`</p>
+- 规格：`200-300g` `300-500g` `500-700g` `1000-2000g` `2000-3000g`</p>
+- 包装：`10公斤/箱`</p>
+
+<div class="imgb" >
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-4.%E5%A2%A8%E9%B1%BC--Cuttle%20fish.jpg">
+</div>
+
+
+## 4. 鲜活夏衣贝
 进口，鲜品，需要根据市场价格来定
 
-<figure class="third">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Fresh%20Scallop%E6%8B%B7%E8%B4%9D.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Fresh%20Scallop%20%284%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Fresh%20Scallop%20%283%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Fresh%20Scallop%20%282%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-</figure>
-<hr>
-
-## 6. 小章鱼
+<div class="imgb" >
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-%E9%B2%9C%E6%B4%BB%E5%A4%8F%E5%A4%B7%E8%B4%9D.jpg">
+</div>
 
 

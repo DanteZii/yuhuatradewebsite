@@ -21,14 +21,14 @@ module.exports = {
     themeConfig: {
         sidebar: [
             {
-                title: '推荐类-Recommend',
+                title: 'Recommend',
                 collapsable: true,
                 children: [
                     '/Recommend/'
                 ]
             },
                 {
-                    title: '采购类ProcurementProducts',
+                    title: 'ProcurementProducts',
                     collapsable: false,
                     children: [
                         '/Purchase/',
@@ -121,20 +121,17 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 '/zh/Purchase/',
-                                '/zh/Purchase/Shell',
-                                '/zh/Purchase/Shrimp'
+                                '/zh/Purchase/Shell'
                             ]
                         },
                         {
                             title: '水产加工系列',
                             collapsable: false,
                             children: [
-                                '/zh/SeafoodProcessing/',
-                                '/zh/SeafoodProcessing/2TempuraShrimp',
-                                '/zh/SeafoodProcessing/3CodFilletSeries',
-                                '/zh/SeafoodProcessing/4SquidSeries',
-                                '/zh/SeafoodProcessing/5SushiSeries',
-                                '/zh/SeafoodProcessing/6SmokedSalmonFillet'
+                                '/zh/SeafoodProcessing/1Other',
+                                '/zh/SeafoodProcessing/2CodFilletSeries',
+                                '/zh/SeafoodProcessing/3SquidSeries',
+                                '/zh/SeafoodProcessing/4SushiSeries'
                             ]
                         },
                         {
@@ -144,6 +141,15 @@ module.exports = {
                                 '/zh/VegetableProcessing/',
                                 '/zh/VegetableProcessing/2Fungus',
                                 '/zh/VegetableProcessing/3Fruit'
+                            ]
+                        },
+                        {
+                            title: '24小时直达',
+                            collapsable: false,
+                            children: [
+                                '/zh/24HoursAirCargo/Farming',
+                                '/zh/24HoursAirCargo/Wild',
+                                '/zh/24HoursAirCargo/Season'
                             ]
                         }
                     ],
