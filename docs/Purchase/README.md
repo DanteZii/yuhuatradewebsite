@@ -80,8 +80,8 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 - Origin：`Korea | Japanese`</p>
 - Weight：`1-2kg` </p>
-<div class="imgb" > </p>
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-%E7%AB%B9%E8%8D%9A%E9%B1%BC.jpg"></p>
+<div class="imgb" >
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-%E7%AB%B9%E8%8D%9A%E9%B1%BC.jpg">
 </div>
 
 

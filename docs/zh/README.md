@@ -9,9 +9,9 @@ pageClass: custom-page-class
 
 <div class="features">
   <div class="feature">
-  <img src="/icons/rocket.svg"/>
-    <h2>高效快捷</h2>
-    <p>冰鲜空运直达/采购、清关、配送一条龙服务，实现无缝对接</p>
+    <img src="/icons/rocket.svg"/>
+      <h2>高效快捷</h2>
+      <p>冰鲜空运直达/采购、清关、配送一条龙服务，实现无缝对接</p>
   </div>
   <div class="feature">
   <img src="/icons/earth.svg"/>
