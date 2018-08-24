@@ -92,3 +92,5 @@ pageClass: custom-page-class
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-C-9.%E9%B3%95%E9%B1%BC%E5%AD%97%E6%AF%8D%E9%A5%BC--Cod%20letter%20cakes.jpg">
 </div>
+
+<footBarEn></footBarEn>

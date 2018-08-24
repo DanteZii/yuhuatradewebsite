@@ -12,3 +12,5 @@ pageClass: custom-page-class
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-%E7%AB%B9%E8%8D%9A%E9%B1%BC.jpg">
 </div>
+
+<footBarEn></footBarEn>

@@ -12,7 +12,7 @@ pageClass: custom-page-class
     + 超低温类
     <br>
 - **独家供货的加工厂**：
-    + 半成品及各种[裹粉类](/SeafoodProcessing/3CodFilletSeries.html)
+    + 半成品及各种 裹粉类
     + 豆腐类等产品<br>
     + 冷冻[果蔬类](/VegetableProcessing/)（可OEM)<br>
 
@@ -29,3 +29,4 @@ pageClass: custom-page-class
     <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/Prove.jpg">
 </div>
 
+<footBarZh></footBarZh>

@@ -40,3 +40,5 @@ pageClass: custom-page-class
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-O-%E5%AF%BF%E5%8F%B8%E9%B1%BC%E7%89%87-Sushi%20fish%20fillet.jpg">
 
 </div>
+
+<footBarZh></footBarZh>

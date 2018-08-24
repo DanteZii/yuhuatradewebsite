@@ -50,3 +50,5 @@ pageClass: custom-page-class
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/R-6.%E5%8C%97%E6%9E%81%E7%94%9C%E8%99%BE%E5%88%BA%E8%BA%AB--Sweet%20shrimp%20sashimi.jpg">
 </div>
+
+<footBarEn></footBarEn>

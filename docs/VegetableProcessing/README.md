@@ -112,3 +112,4 @@ pageClass: custom-page-class
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-9.%E7%99%BD%E8%8A%B1%E8%8F%9C--Cauliflower.jpg">
 </div>
 
+<footBarEn></footBarEn>

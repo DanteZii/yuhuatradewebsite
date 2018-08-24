@@ -29,3 +29,5 @@ pageClass: custom-page-class
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-4.%E9%BB%84%E9%B0%A4%E9%B1%BC--Yellowtail.jpg">
 </div>
+
+<footBarZh></footBarZh>

@@ -50,3 +50,4 @@ pageClass: custom-page-class
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-S-%E9%B2%9C%E6%B4%BB%E5%A4%8F%E5%A4%B7%E8%B4%9D.jpg">
 </div>
 
+<footBarEn></footBarEn>

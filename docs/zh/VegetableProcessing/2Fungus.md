@@ -27,3 +27,5 @@ pageClass: custom-page-class
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-F-2.%E5%B9%B2%E8%92%A1%E4%B8%9D--Dried%20burdock%20pieces.jpg">
 </div>
+
+<footBarZh></footBarZh>
