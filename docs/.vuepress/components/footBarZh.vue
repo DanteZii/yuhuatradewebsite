@@ -49,7 +49,8 @@ a {
 }
 
 .contentF {
-    font-size: 12px
+    font-size: 12px;
+    color: #6A8095;
 }
 
 .imgMenu{

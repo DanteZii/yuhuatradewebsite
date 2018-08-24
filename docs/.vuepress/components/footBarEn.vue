@@ -55,6 +55,7 @@ a {
 .imgMenu{
     width: 26px;
     height: 26px;
+    color: #5E7892;
 }
 
 .menu-bar {
@@ -63,7 +64,7 @@ a {
   bottom: 0px;
   background-color: #fff;
   left: -0.1%;
-  border-top: 1px solid #4e6e8e;
+  border-top: 1px solid #6A8095;
 }
 
 .menu-bar .list {
