@@ -19,7 +19,7 @@
             <div class="contentF">about</div>   
         </li class="btn">
     </router-link>
-    <a href="tel:0535-6666955">
+    <a href="mailto:ytxzq@vip.163.com?subject=Product Information">
         <li class="btn">
             <img calss="imgMenu" src="/menuBar/mobile.svg"/>
             <div class="contentF">contact</div>  
@@ -90,7 +90,7 @@ a {
   margin-bottom: 0;
 }
 
-.icon:hover {
+.icons:hover {
   background-color: blu;
 }
 .page-nav {
@@ -103,6 +103,9 @@ a {
     display:  none;
   }
 
+.page-nav {
+    position: fixed;
+}
 }
 </style>
 
