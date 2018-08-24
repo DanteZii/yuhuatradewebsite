@@ -28,3 +28,4 @@ pageClass: custom-page-class
 <div class="imgb" >
     <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/Prove.jpg">
 </div>
+

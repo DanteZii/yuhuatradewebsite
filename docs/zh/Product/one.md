@@ -10,4 +10,3 @@ sidebar: auto
     C -->|One| D[Result one]
     C -->|Two| E[Result two]
 ```
-<i class="icon-weibo"></i>
