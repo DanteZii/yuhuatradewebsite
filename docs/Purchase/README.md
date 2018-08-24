@@ -1,5 +1,5 @@
 ---
-sidebarDepth: 1
+sidebarDepth: 3
 pageClass: custom-page-class
 ---
 
@@ -134,7 +134,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-#### 11. Frozen Ocellate Spot Skate
+### 11. Frozen Ocellate Spot Skate
 <hr>
 
 - Origin：`Korea | Japanese | Southeast Asia | Africa`</p>

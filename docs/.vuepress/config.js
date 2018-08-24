@@ -139,8 +139,7 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 '/zh/VegetableProcessing/',
-                                '/zh/VegetableProcessing/2Fungus',
-                                '/zh/VegetableProcessing/3Fruit'
+                                '/zh/VegetableProcessing/2Fungus'
                             ]
                         },
                         {

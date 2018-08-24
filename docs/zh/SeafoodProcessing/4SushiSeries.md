@@ -31,11 +31,8 @@ pageClass: custom-page-class
 
 - 类型：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
 - 规格：`30尾` `30片/盘` `100克/盘` </p>
-- 包装：`40盘/箱` `4公斤/箱`</p>
-#### Specification: 
+- 包装：`40盘/箱` `4公斤/箱`</p> 
 <hr>
-3
-0pcs/tray, 100g/tray
 
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-Su-2.%E5%AF%BF%E5%8F%B8%E9%B1%BC%E7%89%87--Sashimi.jpg">
