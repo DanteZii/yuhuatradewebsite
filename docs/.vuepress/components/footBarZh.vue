@@ -3,31 +3,31 @@
   <ul class="list">
     <router-link to="/zh/">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/home.svg"/>
+            <img class="imgMenu" src="/menuBar/home.svg"/>
             <div class="contentF">主页</div>   
         </li>   
     </router-link>
     <router-link to="/zh/Recommend/">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/fish.svg"/>
+            <img class="imgMenu" src="/menuBar/fish.svg"/>
             <div class="contentF">产品</div>    
         </li>
     </router-link>
     <router-link to="/zh/About/">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/team.svg"/>
+            <img class="imgMenu" src="/menuBar/team.svg"/>
             <div class="contentF">关于</div>   
         </li class="btn">
     </router-link>
     <a href="tel:0535-6666955">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/mobile.svg"/>
+            <img class="imgMenu" src="/menuBar/mobile.svg"/>
             <div class="contentF">联系</div>  
         </li>
     </a>
     <router-link to="/">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/language.svg"/>
+            <img class="imgMenu" src="/menuBar/language.svg"/>
             <div class="contentF">语言</div>  
         </li>
     </router-link>
@@ -53,7 +53,8 @@ a {
 }
 
 .imgMenu{
-    margin-top: 1rem;
+    width: 26px;
+    height: 26px;
 }
 
 .menu-bar {

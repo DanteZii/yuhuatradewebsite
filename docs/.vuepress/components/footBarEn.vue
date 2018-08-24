@@ -3,31 +3,31 @@
   <ul class="list">
     <router-link to="/">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/home.svg"/>
+            <img class="imgMenu" src="/menuBar/home.svg"/>
             <div class="contentF">home</div>   
         </li>   
     </router-link>
     <router-link to="/Recommend/">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/fish.svg"/>
+            <img class="imgMenu" src="/menuBar/fish.svg"/>
             <div class="contentF">product</div>    
         </li>
     </router-link>
     <router-link to="/About/">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/team.svg"/>
+            <img class="imgMenu" src="/menuBar/team.svg"/>
             <div class="contentF">about</div>   
         </li class="btn">
     </router-link>
     <a href="mailto:ytxzq@vip.163.com?subject=Product Information">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/mobile.svg"/>
+            <img class="imgMenu" src="/menuBar/mobile.svg"/>
             <div class="contentF">contact</div>  
         </li>
     </a>
     <router-link to="/zh/">
         <li class="btn">
-            <img calss="imgMenu" src="/menuBar/language.svg"/>
+            <img class="imgMenu" src="/menuBar/language.svg"/>
             <div class="contentF">Language</div>  
         </li>
     </router-link>
@@ -53,7 +53,8 @@ a {
 }
 
 .imgMenu{
-    margin-top: 1rem;
+    width: 26px;
+    height: 26px;
 }
 
 .menu-bar {
@@ -97,6 +98,7 @@ a {
     padding-top: 1rem;
     padding-bottom: 2rem;
 }
+
 
 @media (min-width: 650px){
   .menu-bar {
