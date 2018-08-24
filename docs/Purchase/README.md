@@ -62,7 +62,7 @@ pageClass: custom-page-class
 </div>
 
 
-### 5. Frozen Large Head Hairtail  <Badge text="24小时直达"/>
+### 5. Frozen Large Head Hairtail  <Badge text="24hours"/>
 <hr>
 
 - Origin：`Korea | Japanese | South America| Brazil | Pakistan | Africa | Middle East`</p>
@@ -194,7 +194,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 </div>
 
 
-### 16. Frozen Silver Pomfret <Badge text="24小时直达"/>
+### 16. Frozen Silver Pomfret <Badge text="24hours"/>
 <hr>
 
 - Origin：`Korea | Japanese | India | Pakistan | Indonesia`</p>
