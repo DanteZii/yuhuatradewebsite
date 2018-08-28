@@ -31,7 +31,7 @@ pageClass: custom-page-class
 <h1 style="text-align: center">Business introduction</h1>
 
 <div class='ydi'>
-  <img src="bi-en.svg"/>
+  <img src="bi-en.png"/>
 </div>
 <!-- <img src="https://gw.alipayobjects.com/zos/rmsporenl/bIJZFjriQqeMPYyUkSev.png" alt="总概"> -->
 <div style="    padding: 1rem 1.5rem;
