@@ -50,7 +50,7 @@ pageClass: custom-page-class
 ### 4. 寿司鱼片
 <hr>
 
-- 类型：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
+- 类型：`鳗鱼片` `虎头鱼片` `红头鱼片`</p>
 - 规格：`30尾` `30片/盘` `100克/盘` </p>
 - 包装：`40盘/箱` `4公斤/箱`</p>
 
