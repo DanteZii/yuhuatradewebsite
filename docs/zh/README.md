@@ -29,7 +29,7 @@ pageClass: custom-page-class
 <h1 style="text-align: center">业务简介</h1>
 
 <div class='ydi'>
-  <img src="/yuhua-demo-icon-zh.svg"/>
+  <img src="/bi-zh.svg"/>
 </div>
 
 <div style="    padding: 1rem 1.5rem;
