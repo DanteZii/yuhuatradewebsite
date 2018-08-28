@@ -162,7 +162,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 <hr>
 
 - 产地：`加拿大 | 冰岛 | 挪威`</p>
-- 规格：`20-30pcs` `30-40pcs` `40-50pcs` `50-60pcs` `60-70pcs` `70pcs+/Ib`</p>
+- 规格：`20-30盘` `30-40盘` `40-50盘` `50-60盘` `60-70盘` `70盘+/Ib`</p>
 - 包装：`10公斤`</p>
 
 <div class="imgb" >

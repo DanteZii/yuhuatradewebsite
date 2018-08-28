@@ -21,7 +21,7 @@ pageClass: custom-page-class
 <hr>
 
 - 产地：`美国`</p>
-- 规格：`40%籽` `50%籽` `8-10pcs` `10-11pcs` `11-12pcs` `12-14pcs/Ib`</p>
+- 规格：`40%籽` `50%籽` `8-10盘` `10-11盘` `11-12盘` `12-14pcs/Ib`</p>
 - 包装：</p>
 
 <div class="imgb" >

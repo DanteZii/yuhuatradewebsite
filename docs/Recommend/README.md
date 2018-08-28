@@ -27,7 +27,7 @@ pageClass: custom-page-class
 
 - Origin：`Japanese | Korea` </p>
 - Weight：`300-500g` `1-2kg` `5-6kg` `6-9kg`</p>
-- Packing：`Custom weight` `2-3条/ctn`</p>
+- Packing：`Custom weight` `2-3pc/ctn`</p>
 
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-4.%E9%BB%84%E9%B0%A4%E9%B1%BC--Yellowtail.jpg">
@@ -50,7 +50,7 @@ pageClass: custom-page-class
 <hr>
 
 - Type：`Eel Sashimi` `Herring Sashimi` `Red fish Sashimi`</p>
-- Weight：`30pcs/tray` `100g/tray` </p>
+- Weight：`30pcs` `30pcs/tray` `100g/tray` </p>
 - Packing：`40trays/ctn` `4kg/ctn`</p>
 
 <div class="imgb">

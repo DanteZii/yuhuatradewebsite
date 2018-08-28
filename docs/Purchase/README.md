@@ -5,12 +5,9 @@ pageClass: custom-page-class
 
 # Fish
 
-烟裕华凭借多年的从业经验，对货源地产品认真栓选，确保一流品质
 
 <div style="padding:56.25% 0 0 0;position:relative;border-radius:8%"><iframe src="https://player.vimeo.com/video/283261323?loop=0&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-
-极致的匠心精神，原料选自最好的原Origin，在最佳的季节进行捕捞，确保顶级的产品质量
 </p>
 
 
@@ -55,7 +52,7 @@ pageClass: custom-page-class
 
 - Origin：`Japanese | Korea` </p>
 - Weight：`300-500g` `1-2kg` `5-6kg` `6-9kg`</p>
-- Packing：`Custom weight` `2-3条/ctn`</p>
+- Packing：`Custom weight` `2-3pcs/ctn`</p>
 
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-4.%E9%BB%84%E9%B0%A4%E9%B1%BC--Yellowtail.jpg">
@@ -127,7 +124,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 - Origin：`Uruguay`</p>
 - Weight：`M(150-200g)` `L(200-250g` `LL(250g+)`</p>
-- Packing：`10kgs/ctn` `15kgs/ctn`</p>
+- Packing：`10kg/ctn` `15kgs/ctn`</p>
 
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-%E8%99%8E%E5%A4%B4%E9%B1%BC-Fronzen%20WR%20Rabio.jpg">
@@ -139,7 +136,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 - Origin：`Korea | Japanese | Southeast Asia | Africa`</p>
 - Weight：`250-350g` `300-500` `500-1000` `1000-2000` `2000-3000`</p>
-- Packing：`10kgs`</p>
+- Packing：`10kg`</p>
 
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-11.%E8%80%81%E6%9D%BF%E9%B1%BC-Ray.jpg">
@@ -151,7 +148,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 - Origin：`Korea | Russia`</P>
 - Weight：`200-300g`</p>
-- Packing：`10kgs`</p>
+- Packing：`10kg`</p>
 
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-12.%E9%B2%B1%E9%B1%BC-Frozen%20Herrying%20(Flying%20fish).jpg">
@@ -163,7 +160,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 - Origin：`Canada | Iceland | Norway`</p>
 - Weight：`20-30pcs` `30-40pcs` `40-50pcs` `50-60pcs` `60-70pcs` `70pcs+/Ib`</p>
-- Packing：`10kgs`</p>
+- Packing：`10kg`</p>
 
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-13.%E5%A4%9A%E6%98%A5%E9%B1%BC-Frozen%20Capelin.jpg">
@@ -175,7 +172,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 
 - Origin：`Korea | Japanese | America`</p>
 - Weight：`300-500g` `500-800g`</p>
-- Packing：`15kgs/ctn`</p>
+- Packing：`15kg/ctn`</p>
 
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-14.%E5%8A%A0%E5%90%89%E9%B1%BC--Sea%20bream.jpg">
