@@ -64,7 +64,7 @@ a {
   bottom: 0px;
   background-color: #fff;
   left: -0.1%;
-  border-top: 1px solid #6A8095;
+  border-top: 1px solid #BFD2E5;
 }
 
 .menu-bar .list {

@@ -12,7 +12,7 @@ pageClass: custom-page-class
 
 - Origin：`Mediterranean` </p>
 - Weight：`40kg+` `50kg+` `60kg+` `70kg+` `60～80Kg/条`</p>
-- Packing： `Vacuum Pack ` ` Custom weight `</p>
+- Packing：`Vacuum Pack ` ` Custom weight `</p>
 
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-0.%E8%97%8D%E9%B0%AD%E9%87%91%E6%9E%AA%E9%B1%BC-Bluefin-tuna.jpg">

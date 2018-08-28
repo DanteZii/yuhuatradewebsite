@@ -2,27 +2,30 @@
 sidebar: false
 pageClass: custom-page-class
 ---
-## 我们是谁?
-烟台裕华工贸有限公司成立于2005年，是一家集全球一手货源采购、加工及内外销业务多方位发展的工贸一体公司。历经10余年的发展公司在各项业务中积累了丰富的经验，产品与各项服务也得到了业界的一致好评。“百尺竿头更进一步”，裕华愿与全球同仁砥砺前行、不断开拓美好的未来！
+## ABOUT US
+Yantai Yuhua Trade&Industry Co., Ltd established in 2005, which is an integrated industrial and trade company integrating global primary source procurement, processing and internal and external sales. After more than 10 years of development, the company has accumulated rich experience in various businesses, and the products and services have also been praised by the industry. "Progress on all fronts", Yuhua is willing to forge ahead with colleagues around the world, and constantly explore a better future!
+ 
+ 
 
-### 我们提供什么
-- **全球一手货源鱼虾类及贝壳类产品**：
-    + [养殖](/24HoursAirCargo/Farming.html)及[野生](/24HoursAirCargo/Wild.html)类
-    + [冷冻](/SeafoodProcessing/)及[冰鲜](/Purchase/)
-    + 超低温类
-    <br>
-- **独家供货的加工厂**：
-    + 半成品及各种 裹粉类
-    + 豆腐类等产品<br>
-    + 冷冻[果蔬类](/VegetableProcessing/)（可OEM)<br>
+## We can offer
+Global primary sources of fishes, shrimps and shell products:
+Aquaculture and wildlife products
+Frozen and chilled seafood
+Products at ultralow temperature
+ 
+Exclusive supplier:
+Semi - finished products and various powder coating
+Tofu and other products
+Frozen fruits and vegetables (OEM)
+ 
+Our value
+Direct source purchase, green natural, genuine protection
+Comprehensive and efficient service, complete qualifications
+Fresh ice products are available 24 hours to customer destination
+The company has a self-built high quality bluefin tuna processing plant and ultra-low temperature cold storage
 
-### 我们的价值
-- 货源直采，绿色天然，正品保障<br>
-- 服务全面高效，资质齐全<br>
-- 冰鲜产品24小时直达客户目的地<br>
-- 拥有自建高品质蓝鳍金枪鱼加工厂及超低温冷库<br>
+## Qualification certifications
 
-### 资质证书
 <br>
 <br>
 <div class="imgb" >
