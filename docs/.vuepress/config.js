@@ -2,6 +2,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/yuhuatrade-icon-title.png' }]
     ],
+    ga: 'UA-77121069-3',
     serviceWorker: true,
     activeHeaderLinks: true,
     locales: {
