@@ -26,10 +26,10 @@ pageClass: custom-page-class
   </div>
 </div>
 <div style='height: 30px'></div>
-<h1 style="text-align: center">业务简介</h1>
+<h1 style="text-align: center;margin-bottom: 5rem;">业务简介</h1>
 
 <div class='ydi'>
-  <img src="/bi-zh.svg"/>
+  <img src="/bi-zh.png"/>
 </div>
 
 <div style="    padding: 1rem 1.5rem;

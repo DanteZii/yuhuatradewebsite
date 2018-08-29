@@ -28,7 +28,7 @@ pageClass: custom-page-class
   </div>
 </div>
 <div style='height: 30px'></div>
-<h1 style="text-align: center">Business introduction</h1>
+<h1 style="text-align: center;margin-bottom: 5rem;">Business introduction</h1>
 
 <div class='ydi'>
   <img  src="bi-en.png"/>
@@ -37,7 +37,8 @@ pageClass: custom-page-class
 <div style="    padding: 1rem 1.5rem;
     border: 1px solid #ddd;
     border-radius: 4px;">
-  <h3>Global <Badge text="原产地" type="warn"/> <Badge text="全球化"/></h3> 
+  <h3>
+Global Sourcing <Badge text="origin" type="warn"/> <Badge text="global"/></h3> 
   
   <p>The company has established long-term and stable cooperative relations with many high-quality high-end seafood suppliers around the world, and can directly purchase the primary source of origin.</p>
 </div>
