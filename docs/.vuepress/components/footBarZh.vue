@@ -27,7 +27,7 @@
     </a>
     <router-link to="/">
         <li class="btn">
-            <img class="imgMenu" src="/menuBar/language.svg"/>
+            <img class="imgMenu" src="/menuBar/Language.svg"/>
             <div class="contentF">语言</div>  
         </li>
     </router-link>

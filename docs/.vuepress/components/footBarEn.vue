@@ -27,7 +27,7 @@
     </a>
     <router-link to="/zh/">
         <li class="btn">
-            <img class="imgMenu" src="/menuBar/language.svg"/>
+            <img class="imgMenu" src="/menuBar/Language.svg"/>
             <div class="contentF">Language</div>  
         </li>
     </router-link>
@@ -102,12 +102,12 @@ a {
 
 
 @media (min-width: 650px){
-  .menu-bar {
-    display:  none;
-  }
-.page-nav {
-    position: fixed;
-}
+    .menu-bar {
+        display:  none;
+    }
+    .page-nav {
+        position: fixed;
+    }
 }
 </style>
 
