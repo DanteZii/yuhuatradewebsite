@@ -24,9 +24,9 @@ module.exports = {
         ['meta', { name: 'theme-color', content: '#387BBC' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-        ['link', { rel: 'apple-touch-icon', href: `/hero.png` }],
+        ['link', { rel: 'apple-touch-icon', href: `/apple-touch-icon-152x152.png` }],
         ['link', { rel: 'mask-icon', href: '/hero.svg', color: '#387BBC' }],
-        ['meta', { name: 'msapplication-TileImage', content: '/hero.png' }],
+        ['meta', { name: 'msapplication-TileImage', content: '/msapplication-icon-144x144.png' }],
         ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
     ],
     themeConfig: {
