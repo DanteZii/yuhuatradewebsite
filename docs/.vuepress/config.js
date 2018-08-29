@@ -1,7 +1,4 @@
 module.exports = {
-    head: [
-        ['link', { rel: 'icon', href: '/yuhuatrade-icon-title.png' }]
-    ],
     ga: 'UA-77121069-3',
     serviceWorker: true,
     activeHeaderLinks: true,
@@ -20,7 +17,7 @@ module.exports = {
         }
     }, 
     head: [
-        ['link', { rel: 'icon', href: `/hero.png` }],
+        ['link', { rel: 'icon', href: `/hero-title.png` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
         ['meta', { name: 'theme-color', content: '#387BBC' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
