@@ -105,7 +105,6 @@ a {
   .menu-bar {
     display:  none;
   }
-
 .page-nav {
     position: fixed;
 }

@@ -10,7 +10,7 @@ pageClass: custom-page-class
 <div class="features">
   <div class="feature">
   <!-- <img src="icons/rocket.svg"/> -->
-    <img id='icons'src="icons/rocket.svg"/>
+    <img src="icons/rocket.svg"/>
     <h2>Flast</h2>
     <p>Chilled air freight direct / procurement, customs clearance, distribution one-stop service, seamless integration</p>
   </div>
@@ -28,7 +28,7 @@ pageClass: custom-page-class
   </div>
 </div>
 <div style='height: 30px'></div>
-<h1 style="text-align: center;margin-bottom: 5rem;">Business introduction</h1>
+<h1 style="text-align: center;margin-bottom: 4rem;">Business introduction</h1>
 
 <div class='ydi'>
   <img  src="bi-en.png"/>
