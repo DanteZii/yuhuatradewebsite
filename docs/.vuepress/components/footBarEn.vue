@@ -27,7 +27,7 @@
     </a>
     <router-link to="/zh/">
         <li class="btn">
-            <img class="imgMenu" src="/menuBar/Language.svg"/>
+            <img class="imgMenu" src="/menuBar/language.svg"/>
             <div class="contentF">Language</div>  
         </li>
     </router-link>
