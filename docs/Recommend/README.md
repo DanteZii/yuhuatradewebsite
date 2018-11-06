@@ -7,7 +7,7 @@ pageClass: custom-page-class
 
 
 
-### 1. Bluefin tuna  <Badge text="Hot" type="error"/> <Badge text="24hours"/>
+### 0. Frozen Bluefin tuna  <Badge text="Hot" type="error"/> <Badge text="24hours"/>
 <hr>
 
 - Origin：`Mediterranean` </p>
@@ -16,11 +16,20 @@ pageClass: custom-page-class
 
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-0.%E8%97%8D%E9%B0%AD%E9%87%91%E6%9E%AA%E9%B1%BC-Bluefin-tuna.jpg">
- <br>
- <br>
- <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/demoFish.jpg">
 </div>
 
+
+### 1. Bluefin Tuna <Badge text="Hot" type="error"/> <Badge text="24hours"/>
+<hr>
+
+- Origin：`Mediterranean` </p>
+- Weight：`50-80kg`</p>
+- Packing： `Vacuum Pack ` ` Custom weight `</p>
+
+
+<div class="imgb">
+ <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/demoFish.jpg">
+</div>
 
 ### 2. Yellow tail <Badge text="Hot" type="error"/> <Badge text="24hours"/>
 <hr>
