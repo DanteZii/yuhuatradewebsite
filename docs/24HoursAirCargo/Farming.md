@@ -8,7 +8,7 @@ pageClass: custom-page-class
 <hr>
 
 - Origin：`Mediterranean` </p>
-- Weight：`40kg+` `50kg+` `60kg+` `70kg+` `60～80Kg/条`</p>
+- Weight：`50-80kg`</p>
 - Packing： `Vacuum Pack ` ` Custom weight `</p>
 
 

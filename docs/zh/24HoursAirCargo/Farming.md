@@ -4,11 +4,11 @@ pageClass: custom-page-class
 ---
 # 养殖
 
-### 1. 蓝鳍金枪鱼  <Badge text="24小时直达"/>
+### 1. 冰鲜蓝鳍金枪鱼  <Badge text="24小时直达"/>
 <hr>
 
 - 主要采购国家：`地中海` </p>
-- 规格：`40kg+` `50kg+` `60kg+` `70kg+` </p>
+- 规格：`50-80kg`</p>
 - 包装： `真空包装根据客户需求` `真空包装可DIY`</p>
 
 <div class="imgb">

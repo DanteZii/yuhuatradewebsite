@@ -79,7 +79,7 @@ sidebar: auto
 
 ### 竹荚鱼
 <p><strong>主要采购国家：</strong>日本、韩国</p>
-<p><strong>规格：</strong>100-200</p>
+<p><strong>规格：</strong>`40-60g` `60-80g` `80-100g` `90-110g`</p>
 <p><strong>包装：</strong>10公斤</p>
 <figure class="third">
     <img src="http://p93s97xb4.bkt.clouddn.com/Scad%20%E6%8B%B7%E8%B4%9D.jpg?imageView2/1/w/300/h/300/q/75|imageslim">

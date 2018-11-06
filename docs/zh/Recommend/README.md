@@ -7,7 +7,7 @@ pageClass: custom-page-class
 
 
 
-### 1. 蓝鳍金枪鱼  <Badge text="畅销" type="error"/>   <Badge text="24小时直达"/>
+### 0. 冷冻蓝鳍金枪鱼  <Badge text="畅销" type="error"/>   <Badge text="24小时直达"/>
 <hr> 
 
 自主加工场 -60度超低温冷库 匠心精神 品质卓越.
@@ -17,8 +17,16 @@ pageClass: custom-page-class
 
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-0.%E8%97%8D%E9%B0%AD%E9%87%91%E6%9E%AA%E9%B1%BC-Bluefin-tuna.jpg">
- <br>
- <br>
+</div>
+
+### 1. 冰鲜蓝鳍金枪鱼  <Badge text="24小时直达"/>
+<hr>
+
+- 主要采购国家：`地中海` </p>
+- 规格：`50-80kg`</p>
+- 包装： `真空包装根据客户需求` `真空包装可DIY`</p>
+
+<div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/demoFish.jpg">
 </div>
 
