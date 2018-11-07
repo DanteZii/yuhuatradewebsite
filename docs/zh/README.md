@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /icon1.jpg
+heroImage: /icon1.png
 actionText: 产品列表→
 actionLink: /zh/Recommend/
 footer: 烟台裕华工贸有限公司 | 鲁ICP备17041017号
