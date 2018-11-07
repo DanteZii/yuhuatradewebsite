@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /heroyuhua5.svg
+heroImage: /icon1.jpg
 actionText: Product→
 actionLink: /Recommend/
 footer: 烟台裕华工贸有限公司 | 鲁ICP备17041017号
